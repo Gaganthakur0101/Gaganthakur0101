@@ -1,5 +1,23 @@
-# 💫 About Me:
-Hi, I’m Gagan Thakur 👨‍💻<br>I’m a passionate developer who enjoys building projects and learning new technologies. I have experience with C++ and full-stack web development using HTML, CSS, JavaScript, React, Node.js, and MongoDB.<br><br>Currently, I’m learning Python 🐍 and focusing on strengthening my problem-solving skills through hands-on practice and real-world projects. I love exploring how things work under the hood and continuously improving my coding skills.<br><br>🚀 Always learning | 💡 Always building
+<picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=50px></picture> About me
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=250px> </picture>
+
+<br><br>
+
+:school: I am a Computer Science student with a strong interest in development and problem solving.
+
+:technologist: I enjoy using software as a solution for real-world Problems.
+
+:computer: I have experience with C++ and full-stack web development using HTML, CSS, JavaScript, React, Node.js, and MongoDB.
+
+:snake: I’m currently learning Python 🐍 and exploring its real-world applications.
+
+:student: I’m continuously learning Computer Science concepts and improving my coding skills.
+
+:nerd_face: Always learning new things and building projects.
+
+:rocket: Interested in growing as a developer and working on impactful projects.
+
+<br>
 
 
 ## 🌐 Socials:

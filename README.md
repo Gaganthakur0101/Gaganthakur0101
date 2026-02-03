@@ -11,10 +11,6 @@
 
 <br>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Gaganthakur0101&label=Profile%20views&color=0047AB&style=plastic" height="25px" width="160px"/> 
-</p>
-
 ---
 
 <h2>

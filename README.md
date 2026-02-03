@@ -5,47 +5,38 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?
-      font=Time+New+Roman
-      &color=%23C8BE25
-      &size=25
-      &center=true
-      &vCenter=true
-      &width=600
-      &height=100
-      &lines=Computer+Science+Student;
-      Full-Stack+Web+Developer;
-      C%2B%2B+Programmer;
-      Learning+Python;
-      React+%7C+Node.js+%7C+MongoDB;
-      Always+learning+new+things">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Full-Stack+Web+Developer;C%2B%2B+Programmer;Learning+Python;React+%7C+Node.js+%7C+MongoDB;Always+learning+new+things">
   </a>
 </p>
 
 <br>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0047AB&style=plastic" height="25px" width="160px"/> 
+  <img src="https://komarev.com/ghpvc/?username=Gaganthakur0101&label=Profile%20views&color=0047AB&style=plastic" height="25px" width="160px"/> 
 </p>
 
-<picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=50px></picture> About me
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=250px> </picture>
+---
+
+<h2>
+  <picture>
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
+  </picture>
+  About me
+</h2>
+
+<picture>
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
+</picture>
 
 <br><br>
 
-:school: I am a Computer Science student with a strong interest in development and problem solving.
-
-:technologist: I enjoy using software as a solution for real-world Problems.
-
-:computer: I have experience with C++ and full-stack web development using HTML, CSS, JavaScript, React, Node.js, and MongoDB.
-
-:snake: I’m currently learning Python 🐍 and exploring its real-world applications.
-
-:student: I’m continuously learning Computer Science concepts and improving my coding skills.
-
-:nerd_face: Always learning new things and building projects.
-
-:rocket: Interested in growing as a developer and working on impactful projects.
+- 🎓 I am a **Computer Science student** with a strong interest in **development and problem-solving**.  
+- 💻 I enjoy using **software as a solution** for real-world problems.  
+- 🧠 I have experience with **C++** and **full-stack web development** using **HTML, CSS, JavaScript, React, Node.js, and MongoDB**.  
+- 🐍 I’m currently **learning Python** and exploring its real-world applications.  
+- 📚 I’m continuously learning **Computer Science concepts** and improving my coding skills.  
+- 🤓 Always learning new things and **building meaningful projects**.  
+- 🚀 Interested in growing as a developer and working on **impactful projects**.
 
 <br>
 
